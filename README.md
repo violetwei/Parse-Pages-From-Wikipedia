@@ -3,4 +3,4 @@ This is a C program that parses pages from the site Wikipedia using C’s text p
 
 Print the names of all links to other Wikipedia pages that you find to the terminal
 
-every PageName printed should mean https://en.wikipedia.org/wiki/PageName is a valid web page.
+Every PageName printed should mean https://en.wikipedia.org/wiki/PageName is a valid web page.
