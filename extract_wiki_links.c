@@ -1,5 +1,5 @@
-/* COMP206_Assignment2 Qestion 2 is a C program, called q2_extract_wiki_links.c
- * that parses pages from the site Wikipedia using C’s text processing functions found in <string.h>. 
+/* 
+ * This is a program that parses pages from the site Wikipedia using C’s text processing functions found in <string.h>. 
  * Print the names of all links to other Wikipedia pages that you find to the terminal.
  * links appear in this form:
  * <a href="/wiki/PageName" maybe some junk title="PageName">easy to read description</a>
